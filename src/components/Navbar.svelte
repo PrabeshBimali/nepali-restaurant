@@ -99,7 +99,7 @@
         </a>
     </li>
     <li>
-        <a href="#contact" on:click={toggleMenu} class=" hover:text-nav-active">
+        <a href="/#contact" on:click={toggleMenu} class=" hover:text-nav-active">
             Contact
         </a>
     </li>
