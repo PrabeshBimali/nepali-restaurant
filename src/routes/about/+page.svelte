@@ -28,7 +28,7 @@
             How we Started Our Restaurant
         </p>
     </div>
-    <div class="flex flex-col gap-4">
+    <div class="flex flex-col gap-4 py-2">
         <p class="leading-7">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porta iaculis nulla, 
             nec volutpat risus varius vitae. Vestibulum in semper lorem. Nunc nec augue quis felis 
